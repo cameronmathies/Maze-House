@@ -5,6 +5,6 @@ public class Light : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
     {
-        Debug.Log("I'm blind!!!!!!");
+       // Debug.Log("I'm blind!!!!!!"); // This is were the 
     }
 }
