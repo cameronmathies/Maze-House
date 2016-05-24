@@ -46,6 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Test\Light test\Light.cs" />
+     <Compile Include="Assets\Test\Lock\EnableComponents.cs" />
+     <Compile Include="Assets\Test\Lock\PickUp.cs" />
+     <Compile Include="Assets\Test\Lock\Putdown.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
