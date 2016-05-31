@@ -1,15 +1,43 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-4532
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6564
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=4 type=0 insize=977 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd= ok=1
+  api=4 type=0 insize=938 outsize=4792 kw=SPOT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=977 outsize=11024 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd= ok=1
+  api=4 type=1 insize=938 outsize=7319 kw=SPOT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6924 outsize=4053 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=0 insize=938 outsize=4459 kw=DIRECTIONAL SHADOWS_SCREEN pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6924 outsize=1631 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=1 insize=938 outsize=5824 kw=DIRECTIONAL SHADOWS_SCREEN pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1738 outsize=2038 kw=SOFTPARTICLES_ON pd= ok=1
+  api=4 type=0 insize=938 outsize=4792 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1738 outsize=1688 kw=SOFTPARTICLES_ON pd= ok=1
+  api=4 type=1 insize=938 outsize=6823 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=835 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11682 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=6539 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=818 outsize=778 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=818 outsize=510 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=118661 outsize=9147 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_BUMP EFFECT_HUE_VARIATION pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=118661 outsize=3468 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_BUMP EFFECT_HUE_VARIATION pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1482 outsize=1290 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1482 outsize=827 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1482 outsize=2038 kw=SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1482 outsize=1550 kw=SOFTPARTICLES_ON pd= ok=1
